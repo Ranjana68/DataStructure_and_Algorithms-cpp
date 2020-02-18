@@ -1,3 +1,4 @@
+//complexity for traversal o(n),where 'n' is number of nodes
 #include<iostream>
 using namespace std;
 
