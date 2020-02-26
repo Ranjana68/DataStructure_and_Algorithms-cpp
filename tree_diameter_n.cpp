@@ -1,3 +1,4 @@
+//complexity is O(n)
 #include<iostream>
 using namespace std;
 
